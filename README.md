@@ -69,6 +69,24 @@ Não existe conta nem servidor. Para trocar de aparelho, exporte um backup `.aka
 - 💾 **Backup `.akai`** para levar tudo para outro celular.
 - 🌙 Visual escuro, rápido e leve (cerca de 54 MB).
 
+## 💛 Sobre os anúncios
+
+O akai tem anúncios, mas **pensados para não atrapalhar**:
+
+- 🚫 **Nada invasivo:** nenhum anúncio de tela cheia, nenhum vídeo forçado e nada que obrigue você a esperar.
+- 🎬 **Nunca enquanto você assiste ou lê:** o player, o leitor de mangá e o leitor de livros não têm anúncio nenhum.
+- 🧭 **Só banners discretos** nas telas de navegação (Início, Explorar, Minha lista, Buscar, detalhes e Configurações).
+  Quando não há anúncio, o espaço mostra uma dica do próprio app.
+
+Os anúncios existem para **apoiar o projeto**: é com eles que o akai continua sendo mantido e atualizado — com
+**mais provedores**, **mais qualidade**, **correção de bugs** e **mais funções offline**.
+
+## 🗄️ O akai não armazena arquivos
+
+O akai **não hospeda nem guarda** nenhum episódio, capítulo ou livro em servidores próprios — ele nem tem servidor.
+O app apenas organiza e exibe conteúdos de provedores de terceiros, e tudo o que você baixa ou importa fica
+**somente no seu celular**.
+
 ## 📲 Como instalar
 
 1. Abra a [versão mais nova](https://github.com/BelmanteGu/akai-app/releases/latest).
@@ -88,8 +106,8 @@ Baixe o APK da versão nova e instale por cima: suas listas, seu progresso e seu
 
 **Preciso criar conta?** Não. Não existe conta: tudo fica no seu celular.
 
-**O app tem anúncios?** Tem alguns banners discretos nas telas de navegação (nunca no player nem no leitor) e
-nenhum anúncio de tela cheia. Quando não há anúncio, o espaço mostra uma dica do próprio app.
+**O app tem anúncios?** Só banners discretos nas telas de navegação — nunca enquanto você assiste ou lê, e nenhum
+anúncio de tela cheia. Eles ajudam a manter o projeto (veja [Sobre os anúncios](#-sobre-os-anúncios)).
 
 **O que acontece se eu desinstalar?** Seus dados saem junto. Faça um backup `.akai` antes.
 
