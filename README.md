@@ -22,7 +22,7 @@ Assista, leia, baixe e acompanhe tudo no seu Android — sem conta, sem cadastro
   <img src="https://img.shields.io/badge/PRIVACIDADE-POL%C3%8DTICA-141218?style=for-the-badge&labelColor=2D2834" alt="Política de privacidade" height="44" />
 </a>
 
-<img src="https://img.shields.io/github/downloads/BelmanteGu/akai-app/total?style=for-the-badge&label=downloads&color=A80F28&labelColor=2D2834" alt="Total de downloads" />
+<img src="https://img.shields.io/github/downloads/BelmanteGu/akai-app/total?style=for-the-badge&label=downloads&color=A80F28&labelColor=2D2834&cacheSeconds=3600" alt="Total de downloads" />
 
 </div>
 
